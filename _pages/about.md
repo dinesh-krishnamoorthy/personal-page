@@ -18,8 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dinesh Krishnamoorthy is an Assistant professor at the Department of Mechanical Engineering at [TU Eindhoven](https://www.tue.nl/en/our-university/departments/mechanical-engineering/), where he is a part of the [Control Systems Technology](https://www.tue.nl/en/research/research-groups/control-systems-technology/) group. 
+
+He was a post-doctoral researcher at Harvard John A. Paulson School of Engineering and Applied Sciences. Dinesh received his PhD in Process Systems Engineering from the Norwegian University of Science and Technology (NTNU), MSc in Control Systems from Imperial College London, and B.Eng in Mechatronics from the University of Nottingham. 
+
+Dinesh also has more than four years of industrial research experience. He was working as a Senior Researcher at Statoil Research centre, Norway between 2012-2016, and was also a part-time Senior Data Science consultant for Novo Nordisk R\&D (2021). 
+
+Dinesh is the recipient of the [Dimitirs. N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf) (as one of 35 worldwide), [Excellence in Computer-Aided Process Engineering (CAPE) PhD Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) by the European Federation of Chemical Engineers (EFCE), [NTNU Faculty of Natural Sciences Best PhD Thesis Award](https://www.youtube.com/watch?v=QuHFnoTiy-k&ab_channel=NTNUFakultetfornaturvitenskap), as well as IFAC Young author award. 
+
+His research interests include distributed optimization, numerical optimal control, extremum seeking control, real-time optimization and Bayesian optimization, with applications to energy and biomedical systems.
