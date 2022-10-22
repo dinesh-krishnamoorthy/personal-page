@@ -29,3 +29,10 @@ Dinesh also has more than four years of industrial research experience. He was w
 Dinesh is the recipient of the [Dimitirs. N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf) (as one of 35 worldwide), [Excellence in Computer-Aided Process Engineering (CAPE) PhD Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) by the European Federation of Chemical Engineers (EFCE), [NTNU Faculty of Natural Sciences Best PhD Thesis Award](https://www.youtube.com/watch?v=QuHFnoTiy-k&ab_channel=NTNUFakultetfornaturvitenskap), as well as IFAC Young author award. 
 
 His research interests include distributed optimization, numerical optimal control, extremum seeking control, real-time optimization and Bayesian optimization, with applications to energy and biomedical systems.
+
+
+
+
+
+<a href="https://info.flagcounter.com/0V1v"><img src="https://s11.flagcounter.com/count2/0V1v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
